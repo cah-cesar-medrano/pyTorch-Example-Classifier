@@ -9,8 +9,10 @@ Built an image classifier from example code and tutorials in pyTorch.
 * Imported dataset from torch vision
 * Created training and testing modules and imported them
 
+
 # Going to add
 
 * Adding a Cli module to main
 * Allow user to train, test and adjust values and see results 
 * May add other things, haven't thought of it yet
+* Pushed console output to log but will add propper logging
